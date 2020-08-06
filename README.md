@@ -19,3 +19,5 @@ Glisser le dossier mods dans le dossier **.minecraft**
 Lancer minecraft avec la bonne version
 
 ![minecraft launcher](https://image.noelshack.com/fichiers/2020/32/4/1596721659-5.png)
+
+Vous pouvez rejoindre le serveur !
