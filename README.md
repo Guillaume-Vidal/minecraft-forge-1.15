@@ -6,7 +6,7 @@ Exécuter le fichier et suivre l'installation
 
 ![minecraft forge](https://image.noelshack.com/fichiers/2020/32/4/1596723179-2.png)
 
-Une fois l'installation terminé telecharger l'archive contenant le dossier mods [ici](https://github.com/Guillaume-Vidal/minecraft-forge-1.15/archive/master.zip)
+Une fois l'installation terminée télécharger l'archive contenant le dossier mods [ici](https://github.com/Guillaume-Vidal/minecraft-forge-1.15/archive/master.zip)
 
 Extraire l'archive
 
@@ -24,7 +24,7 @@ Lancer minecraft avec la bonne version
 
 Vous pouvez rejoindre le serveur !
 
-# Client mods optionnel pour amélioré minecraft
+# Client mods optionnel pour améliorer minecraft
 
 [AmbientSounds 3](https://www.curseforge.com/minecraft/mc-mods/ambientsounds)
 [Sound Filters](https://www.curseforge.com/minecraft/mc-mods/sound-filters)
