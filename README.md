@@ -4,6 +4,8 @@
 
 ###### Exécuter le fichier et suivre l'installation
 
+![minecraft forge](https://image.noelshack.com/fichiers/2020/32/4/1596723179-2.png)
+
 ###### Une fois l'installation terminé telecharger l'archive contenant le dossier mods [ici](https://github.com/Guillaume-Vidal/minecraft-forge-1.15/archive/master.zip)
 
 ###### Extraire l'archive
