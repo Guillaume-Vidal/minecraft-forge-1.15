@@ -26,5 +26,5 @@ Vous pouvez rejoindre le serveur !
 
 # Client mods optionnel pour améliorer minecraft
 
-[AmbientSounds 3](https://www.curseforge.com/minecraft/mc-mods/ambientsounds)
+[AmbientSounds 3](https://www.curseforge.com/minecraft/mc-mods/ambientsounds)  
 [Sound Filters](https://www.curseforge.com/minecraft/mc-mods/sound-filters)
