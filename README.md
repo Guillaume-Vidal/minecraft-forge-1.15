@@ -4,9 +4,9 @@ Télécharger minecraft forge version 31.2.33 [ici](https://adfoc.us/serve/sitel
 
 Exécuter le fichier et suivre l'installation
 
+Une fois l'installation terminé telecharger l'archive contenant le dossier mods [ici](https://github.com/Guillaume-Vidal/minecraft-forge-1.15/archive/master.zip)
 
-
-Une fois l'installation terminé telecharger le dossier mods [ici](https://github.com/Guillaume-Vidal/minecraft-forge-1.15/archive/master.zip)
+Extraire l'archive
 
 Ouvrir l'explorateur fichier et taper **%appdata%**
 
