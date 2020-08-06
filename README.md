@@ -6,4 +6,6 @@ Télécharger minecraft forge version 31.2.33 [ici](http://files.minecraftforge.
 
 Exécuter le fichier et suivre l'installation
 
-![page forge](https://image.noelshack.com/fichiers/2020/32/4/1596720433-2.png)
+![jar forge](https://image.noelshack.com/fichiers/2020/32/4/1596720433-2.png)
+
+Une fois l'installation terminé ouvrir l'explorateur fichier et taper **%appdata%**
