@@ -8,7 +8,9 @@ Exécuter le fichier et suivre l'installation
 
 ![jar forge](https://image.noelshack.com/fichiers/2020/32/4/1596720433-2.png)
 
-Une fois l'installation terminé ouvrir l'explorateur fichier et taper **%appdata%**
+Une fois l'installation terminé telecharger le dossier mods [ici]()
+
+Ouvrir l'explorateur fichier et taper **%appdata%**
 
 ![explorateur fichier](https://image.noelshack.com/fichiers/2020/32/4/1596721361-3.png)
 
