@@ -14,7 +14,7 @@ Ouvrir l'explorateur fichier et taper **%appdata%**
 
 ![explorateur fichier](https://image.noelshack.com/fichiers/2020/32/4/1596721361-3.png)
 
-Glisser le dossier mods dans le dossier **.minecraft**
+Glisser le dossier **mods** dans le dossier **.minecraft**
 
 ![explorateur fichier](https://image.noelshack.com/fichiers/2020/32/4/1596721558-4.png)
 
@@ -29,7 +29,7 @@ Vous pouvez rejoindre le serveur !
 [AmbientSounds 3](https://www.curseforge.com/minecraft/mc-mods/ambientsounds)  
 [Sound Filters](https://www.curseforge.com/minecraft/mc-mods/sound-filters)
 
-# Liste des mods du serveur
+# Mods list du serveur
 
 [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin)  
 [BETA Camels](https://www.curseforge.com/minecraft/mc-mods/camels)  
